@@ -1,5 +1,5 @@
 # Tech-blog
-This project is a tech blog using handlebars. I will walk you through step by step of what the application can do. Keep in mind that this application is unfinished but the backend is complete.
+This project is a tech blog using handlebars. I will walk you through step by step of what the application can do. 
 
 The first thing you would see is this page. Click the "login" on the nav bar.
 
