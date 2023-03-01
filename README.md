@@ -1,5 +1,11 @@
 # Tech-blog
-This project is a tech blog using handlebars. I will walk you through step by step of what the application can do. 
+This project is a tech blog using handlebars. It has fuctions like creating a account, making posts, updating and deleting posts. You can view the posts you made from the home and dashboard tab. If you would like to play with it yourself the deployed verison is below and a demo if you need help.
+
+# Deployed
+https://my-tech-bloger.herokuapp.com/
+
+# Demo
+I will walk you through step by step of what the application can do. 
 
 The first thing you would see is this page. Click the "login" on the nav bar.
 
